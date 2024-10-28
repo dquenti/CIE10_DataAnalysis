@@ -1,7 +1,3 @@
-Aquí tienes un README más detallado, visual y con emoticones para hacer el proyecto más atractivo y claro:
-
----
-
 # 🧩 Análisis Comparativo de Códigos CIE-10 en Sistemas de Salud 🧬
 
 Este proyecto realiza un análisis exhaustivo de los códigos **CIE-10** implementados en tres sistemas de salud: **Rayen**, **Yani**, y la base oficial **MINSAL**. El análisis, realizado en `CIE10analisis.ipynb`, evalúa la **consistencia, calidad y diferencias** en la implementación de estos códigos, con el objetivo de mejorar la interoperabilidad y precisión en la comunicación entre sistemas de salud.
