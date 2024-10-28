@@ -78,11 +78,6 @@ El análisis incluye una serie de visualizaciones para explorar los datos de for
 
 ---
 
-## 📜 Licencia
-
-Este proyecto está disponible bajo la **licencia MIT**. Consulta el archivo `LICENSE` para obtener más detalles.
-
----
 
 Este README ofrece una visión detallada y organizada del proyecto, resaltando el propósito y contenido de cada base de datos, y guiando al lector a través de los pasos de instalación y ejecución de manera clara y atractiva. ¡Perfecto para un repositorio de GitHub!
 
